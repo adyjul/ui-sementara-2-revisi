@@ -871,6 +871,12 @@ p {
     cursor: pointer;    
   }
 
+  .navbar-light .navbar-toggler-icon{
+    left: 20px;
+    position: relative;
+
+  }
+
 }
 
 /* end responsive */
