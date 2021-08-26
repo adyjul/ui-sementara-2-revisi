@@ -115,7 +115,7 @@ p {
 
 .navbar .dropdown-menu{
   left: -59px;
-  padding: 10px;  
+  padding: 13px;  
   min-width: 8rem;
 }
 
@@ -871,7 +871,7 @@ p {
     cursor: pointer;    
   }
 
-  .navbar-light .navbar-toggler-icon{
+  .navbar-light .navbar-toggler{
     left: 20px;
     position: relative;
 
