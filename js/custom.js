@@ -86,10 +86,31 @@
         items: 1,
       },
       768: {
-        items: 5,
+        items: 3,
       },
       992: {
-        items: 6,
+        items: 4,
+      },
+    },
+  });
+
+  $(".testimoni").owlCarousel({
+    autoplay: true,
+    dots: true,
+    loop: true,
+    nav: true,
+    responsive: {
+      0: {
+        items: 1,
+      },
+      576: {
+        items: 1,
+      },
+      768: {
+        items: 1,
+      },
+      992: {
+        items: 1,
       },
     },
   });
